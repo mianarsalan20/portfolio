@@ -1,0 +1,130 @@
+.skills__container{
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0.5rem;
+    margin-bottom: var(--mb-2);
+}
+
+.Skills__circle {
+    border-radius: 100%;
+    text-align: center;
+    padding: 2rem;
+}
+
+
+.skills__img {
+    width: 8rem;
+    justify-self: center;
+    z-index: -1;
+}
+
+
+/*=============== BREAKPOINTS ===============*/
+/* For large devices */
+@media screen and (max-width: 1250px) {
+    .skills__container{
+        grid-template-columns: repeat(5, 1fr);
+    }
+    
+    .Skills__circle {
+        padding: 1.8rem;
+    }
+    
+    
+    .skills__img {
+        width: 6.5rem;
+    }
+  }
+  /* For large devices */
+  @media screen and (max-width: 1024px) {
+    .skills__container{
+        grid-template-columns: repeat(4, 1fr);
+    }
+    
+    .Skills__circle {
+        padding: 1.8rem;
+    }
+    
+    
+    .skills__img {
+        width: 7rem;
+    }
+  }
+
+  @media screen and (max-width: 990px) {
+    .skills__container{
+        grid-template-columns: repeat(4, 1fr);
+    }
+    
+    .Skills__circle {
+        padding: 1.2rem;
+    }
+    
+    
+    .skills__img {
+        width: 6.5rem;
+    }
+  }
+
+  
+  /* For medium devices */
+  @media screen and (max-width: 768px) {
+    .skills__container{
+        grid-template-columns: repeat(3, 1fr);
+    }
+    
+    .Skills__circle {
+        padding: 1.5rem;
+    }
+    
+    
+    .skills__img {
+        width: 7rem;
+    }
+  }
+
+  @media screen and (max-width: 650px) {
+    .skills__container{
+        grid-template-columns: repeat(3, 1fr);
+    }
+    
+    .Skills__circle {
+        padding: 1.2rem;
+    }
+    
+    
+    .skills__img {
+        width: 6.5rem;
+    }
+  }
+  
+  @media screen and (max-width: 576px) {
+    .skills__container{
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .Skills__circle {
+        padding: 1.3rem;
+    }
+    
+    
+    .skills__img {
+        width: 6.5rem;
+    }
+  }
+  
+  /* For small devices */
+  @media screen and (max-width: 376px) {
+    .skills__container{
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .Skills__circle {
+        padding: 1rem;
+    }
+    
+    
+    .skills__img {
+        width: 5rem;
+    }
+  }
+  
