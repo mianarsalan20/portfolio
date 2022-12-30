@@ -19,6 +19,13 @@
 
 
 /*=============== BREAKPOINTS ===============*/
+@media screen and (min-width: 1250px) {
+
+    .skills__container{
+        grid-template-columns: repeat(5, 1fr);
+    }
+
+}
 /* For large devices */
 @media screen and (max-width: 1250px) {
     .skills__container{

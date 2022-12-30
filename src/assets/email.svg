@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 410">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #ffb331;
+      }
+
+      .cls-3 {
+        fill: #d5f6f5;
+      }
+
+      .cls-4 {
+        fill: #81bfe2;
+      }
+
+      .cls-5 {
+        fill: #81e3e2;
+      }
+
+      .cls-6 {
+        fill: #81c9e2;
+      }
+    </style>
+  </defs>
+  <g id="Capa_1" data-name="Capa 1">
+    <polygon class="cls-6" points="320.01 207.77 320.01 207.77 225 297.5 360 410 360 170 320.01 207.77"/>
+    <polygon class="cls-3" points="0 170 0 410 135 297.5 0 170"/>
+    <polygon class="cls-4" points="135 297.5 0 410 180 410 180 340 135 297.5"/>
+    <polygon class="cls-5" points="180 340 180 410 360 410 225 297.5 180 340"/>
+    <polygon class="cls-3" points="39.99 132.23 0 170 39.99 170 39.99 132.23"/>
+    <polygon class="cls-3" points="360 170 320.01 132.23 320.01 170 360 170"/>
+    <polygon class="cls-6" points="180 0 116.21 60.24 243.63 60.09 180 0"/>
+    <polygon class="cls-5" points="320.01 207.77 360 170 320.01 170 320.01 207.77"/>
+    <polygon class="cls-5" points="180 340 39.99 207.76 39.99 170 0 170 135 297.5 180 340"/>
+    <path class="cls-2" d="M39.99,207.76l140.01,132.24,45-42.5,95.01-89.73h0s0-37.77,0-37.77v-37.77s0-72.23,0-72.23l-76.37,.09-127.41,.15-76.21,.09v71.9s-.01,37.77-.01,37.77v37.76Zm50.01-27.76h180v30H90v-30Zm0-30v-30h180v30H90Z"/>
+    <rect class="cls-1" x="90" y="120" width="180" height="30"/>
+    <rect class="cls-1" x="90" y="180" width="180" height="30"/>
+  </g>
+</svg>
