@@ -98,9 +98,15 @@ ul {
   list-style: none;
 }
 
+hr{
+  border: none;
+  border-bottom: 1px solid var(--text-color);
+}
+
 a {
   text-decoration: none;
 }
+
 
 button {
   cursor: pointer;
